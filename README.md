@@ -1,0 +1,4 @@
+- Olá Eu sou Rainel Simão
+- Estudante de Programação, Design e Pentest
+- Gosto de Estudar Programação, Pentest e Design
+- Estou aqui para contribuir com o que puder.
